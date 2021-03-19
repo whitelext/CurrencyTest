@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyTest</string>
+    <string name="currency_loading_error">Ошибка при загрузке списка валют</string>
+</resources>
